@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @4b3c
 - 👀 I’m interested in always learning new things
-- 🌱 I’m currently learning web dev
+- 🌱 I’m currently learning about how much java sucks
 - 💞️ I’m looking to collaborate on neural network projects
 - 📫 How to reach me > abramwpierce@icloud.com
 
