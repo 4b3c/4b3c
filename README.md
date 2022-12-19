@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @4b3c
 - 👀 I’m interested in always learning new things
 - 🌱 I’m currently learning about how much java sucks
-- 💞️ I’m looking to collaborate on neural network projects
+- 💞️ I’m looking to collaborate on crying
 - 📫 How to reach me > abramwpierce@icloud.com
 
 <!---
