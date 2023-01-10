@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @4b3c
+- 👋 Hi, I’m Abram
 - 👀 I’m interested in always learning new things
 - 🌱 I’m currently learning about how much java sucks
 - 💞️ I’m looking to collaborate on crying
