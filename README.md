@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abram
 - 👀 I’m interested in always learning new things
-- 🌱 I’m currently learning about how much java sucks
-- 💞️ I’m looking to collaborate on crying
+- 🌱 I’m currently learning about django and web development
+- 💞️ I’m looking to collaborate on AI projects
 - 📫 How to reach me > abramwpierce@icloud.com
 
 <!---
